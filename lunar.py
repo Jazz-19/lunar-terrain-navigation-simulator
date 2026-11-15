@@ -160,6 +160,7 @@ def run_demo(folder_path=os.path.join("dataset", "render"), delay_seconds=5):
                         cv2.destroyAllWindows()
                         return
 
+    
     except KeyboardInterrupt:
         print("\n[STOPPED] Terminated by terminal.")
 
