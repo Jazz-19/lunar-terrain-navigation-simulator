@@ -73,6 +73,13 @@ The project includes Raspberry Pi integration for embedded validation of the nav
 
 - Jiya Modak
 
+## Research Paper
+
+A research paper has been prepared to document the proposed approach, image-processing methodology and implementation of this project.
+
+📄 **Read the Research Paper:**
+- https://drive.google.com/file/d/1HnQx_ZLwbowuJ5UwTeXiq53mOlrfpadQ/view?usp=sharing
+  
 ## Acknowledgements
 
 Guided by Prof. Shwetha Shetty and Prof. Sahil Nikam.
